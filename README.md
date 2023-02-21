@@ -1,4 +1,4 @@
-Odin-Recipes.
+Odin-Recipes
 
 This is a mock website consisting of recipes.
 
