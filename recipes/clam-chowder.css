@@ -1,0 +1,27 @@
+h1 {
+    background-color: bisque;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+h2 {
+    background-color: bisque;
+}
+
+h3 {
+    background-color: bisque;
+}
+
+h4 {
+    background-color: bisque;
+}
+
+* {
+    font-family: cursive;
+}
