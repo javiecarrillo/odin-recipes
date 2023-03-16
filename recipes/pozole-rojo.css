@@ -1,0 +1,21 @@
+h1 {
+    background-color: brown;
+    color: wheat;
+    text-align: center;
+}
+
+h2, h3, h4, h5 {
+    background-color: brown;
+    color: wheat;
+}
+
+* {
+    font-family: cursive;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
